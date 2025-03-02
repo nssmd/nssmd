@@ -5,14 +5,11 @@
   <a href="https://github.com/nssmd">
     <img src="https://img.shields.io/badge/-@nssmd-%23181717?style=flat-square&logo=github" alt="GitHub">
   </a>
-  <a href="https://ouyangyipeng.github.io">
-    <img src="https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=OYYP&url=https%3A%2F%2Fouyangyipeng.github.io" alt="Website">
-  </a>
 </div>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ouyangyipeng&theme=onedark&column=4&margin-w=15&margin-h=15&no-frame=true&rank=-?,-C,-B" alt="GitHub Trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nssmd&theme=onedark&column=4&margin-w=15&margin-h=15&no-frame=true&rank=-?,-C,-B" alt="GitHub Trophy">
   </a>
 </p>
 
