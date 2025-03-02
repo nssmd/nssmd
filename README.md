@@ -17,7 +17,6 @@
 💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒓𝒊𝒏𝒈𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒍𝒊𝒇𝒆. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
 
 - 👋 I’m @nssmd, a college student @SJTU, from @MVIG Lab.
-- 💞️ I’m looking to collaborate on C2Rust Translation work(based on LLM) and VLNCE
 - 📫 How to reach me : [2581235653@sjtu.edu.cn](2581235653@sjtu.edu.cn)
 - ⚡ Hobbies: Ping Pong, Computer Games
 
