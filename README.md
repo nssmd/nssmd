@@ -1,9 +1,9 @@
-<h1 align="center">𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Fernandez Owen</h1>
-<h3 align="center">A passionate CS student from NSCC-GZ, China</h3>
+<h1 align="center">𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Zimo Wen</h1>
+<h3 align="center">A passionate CS student from SJTU, China</h3>
 
 <div align="center">
-  <a href="https://github.com/ouyangyipeng">
-    <img src="https://img.shields.io/badge/-@ouyangyipeng-%23181717?style=flat-square&logo=github" alt="GitHub">
+  <a href="https://github.com/nssmd">
+    <img src="https://img.shields.io/badge/-@nssmd-%23181717?style=flat-square&logo=github" alt="GitHub">
   </a>
   <a href="https://ouyangyipeng.github.io">
     <img src="https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=OYYP&url=https%3A%2F%2Fouyangyipeng.github.io" alt="Website">
