@@ -20,13 +20,8 @@
 - 💞️ I’m looking to collaborate on C2Rust Translation work(based on LLM) and VLNCE
 - 📫 How to reach me : [2581235653@sjtu.edu.cn](2581235653@sjtu.edu.cn)
 - ⚡ Hobbies: Ping Pong, Computer Games
-- ☕ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<p align="center">
-  <a href="https://buymeacoffee.com/fernandezowen" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
-  </a>
-</p>
+
 
 ## > My GitHub Stats 📈
 
