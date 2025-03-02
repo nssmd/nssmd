@@ -90,10 +90,20 @@
 
 **Learning:**
 
-<a href="https://www.rust-lang.org/" title="Rust"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/rust.svg" /></a>
+
 <a href="https://www.pytorch.org/" title="Pytorch"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/pytorch.svg" /></a>
-<a href="https://developer.nvidia.cn/cuda-zone/" title="Cuda"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nvidia.svg" /></a>
-<a href="https://scp-wiki.wikidot.com/" title="SCP"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/scpfoundation.svg" /></a>
+<a href="https://robotics.org/" title="Robot Learning"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/ros.svg" /></a>
+<a href="https://www.blender.org/" title="3D Generation"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/blender.svg" /></a>
+<a href="https://www.openstreetmap.org/" title="Spatiotemporal Data Mining"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/openstreetmap.svg" /></a>
+<a href="https://huggingface.co/" title="Large Models">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/huggingface.svg" />
+</a>
+<a href="https://openai.com/" title="Reinforcement Learning">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/openai.svg" />
+</a>
+
+
+
 
 <div align="center">
   <p>
