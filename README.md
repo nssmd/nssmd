@@ -9,19 +9,17 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nssmd&theme=onedark&column=4&margin-w=15&margin-h=15&no-frame=true&rank=-?,-C,-B" alt="GitHub Trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nssmd&theme=onedark&column=4&margin-w=15&margin-h=15&no-frame=true&rank=-?," alt="GitHub Trophy">
   </a>
 </p>
 
 
 💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒓𝒊𝒏𝒈𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒍𝒊𝒇𝒆. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
 
-- 👋 I’m @ouyangyipeng, a college student @SYSU @NSCC-GZ, from @ArcSysu Lab.
-- 👀 I’m interested in AI for Compiler, Embodied Intelligence
-- 🌱 I’m currently learning Source2Source Compiling(Translation)
+- 👋 I’m @nssmd, a college student @SJTU, from @MVIG Lab.
 - 💞️ I’m looking to collaborate on C2Rust Translation work(based on LLM) and VLNCE
-- 📫 How to reach me : [ouyyp5@mail2.sysu.edu.cn](mailto:owenweiyuan@gmail.com)
-- 😄 Website: [ouyangyipeng.github.io](https://ouyangyipeng.github.io)
+- 📫 How to reach me : [2581235653@sjtu.edu.cn](2581235653@sjtu.edu.cn)
+- 😄 Website: [nssmd.github.io](https://nssmd.github.io)
 - ⚡ Hobbies: Calligraphy, Badminton
 - ☕ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
@@ -35,32 +33,21 @@
 
 <p align="center">
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ouyangyipeng&show_icons=true&theme=cobalt&count_private=true&card_width=495" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nssmd&show_icons=true&theme=cobalt&count_private=true&card_width=495" alt="GitHub Stats">
   </div>
   <div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=ouyangyipeng&hide_contributor_rank=false&combine_all_yearly_contributions=true&limit=4&order_by=stars&&theme=synthwave" alt="GitHub Contributions">
+    <img src="https://github-contributor-stats.vercel.app/api?username=nssmd&hide_contributor_rank=false&combine_all_yearly_contributions=true&limit=4&order_by=stars&&theme=synthwave" alt="GitHub Contributions">
   </div>
   <div align="center">
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=ouyangyipeng&theme=vue-dark" alt="GitHub Streak">
+      <img src="https://streak-stats.demolab.com?user=nssmd&theme=vue-dark" alt="GitHub Streak">
     </a>
   </div>
 </p>
 
 
-## > Currently Working On
 
-<p align="center">
-  <a href="https://github.com/ouyangyipeng/XiaoyuanKousuan">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/ouyangyipeng/XiaoyuanKousuan&mode=dark&style=horizontal" alt="Xiaoyuan Kousuan">
-  </a>
-  <a href="https://github.com/ouyangyipeng/Yat-Search-Engine">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/ouyangyipeng/Yat-Search-Engine&mode=dark&style=horizontal" alt="Yat Search Engine">
-  </a>
-  <a href="https://github.com/ouyangyipeng/Thinking-GPT4o">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/ouyangyipeng/Thinking-GPT4o&mode=dark&style=horizontal" alt="Thinking-GPT4o">
-  </a>
-</p>
+
 
 ## > My Tech Stack
 
@@ -85,7 +72,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouyangyipeng&layout=compact&theme=cobalt" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nssmd&layout=compact&theme=cobalt" alt="Top Languages">
   </a>
 </div>
 
@@ -114,6 +101,6 @@
   </p>
   <p>
     You are No. 
-    <img src="https://profile-counter.glitch.me/ouyangyipeng/count.svg" alt="Visitor Count"> to visit me!
+    <img src="https://profile-counter.glitch.me/nssmd/count.svg" alt="Visitor Count"> to visit me!
   </p>
 </div>
