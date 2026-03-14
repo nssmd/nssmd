@@ -1,6 +1,6 @@
 <svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Zimo Wen banner</title>
-  <desc id="desc">Personal homepage banner for Zimo Wen, a CS student at SJTU focused on multimodal evaluation, robot learning, and reproducible systems.</desc>
+  <desc id="desc">Personal homepage banner for Zimo Wen, a CS student at SJTU focused on embodied intelligence, multimodal models, and research engineering.</desc>
   <defs>
     <linearGradient id="bg" x1="80" y1="24" x2="1138" y2="280" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0F172A" />
@@ -51,31 +51,31 @@
     Zimo Wen
   </text>
   <text x="84" y="136" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">
-    CS Student at SJTU | MVIG Lab | Research Engineering
+    SJTU | Zhiyuan Honors Program | MVIG Lab
   </text>
   <text x="84" y="176" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="500">
-    Multimodal Evaluation, Robot Learning, and Time-Series Modeling
+    Embodied Intelligence, Multimodal Models, and Research Engineering
   </text>
 
   <g transform="translate(82 204)">
     <rect width="148" height="34" rx="17" fill="#0F172A" fill-opacity="0.42" stroke="#7DD3FC" stroke-opacity="0.45" />
     <text x="22" y="22" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">
-      MLLM Eval
+      VLA Systems
     </text>
 
     <rect x="160" width="152" height="34" rx="17" fill="#0F172A" fill-opacity="0.42" stroke="#93C5FD" stroke-opacity="0.45" />
     <text x="182" y="22" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">
-      Embodied AI
+      World Models
     </text>
 
     <rect x="324" width="126" height="34" rx="17" fill="#0F172A" fill-opacity="0.42" stroke="#5EEAD4" stroke-opacity="0.45" />
     <text x="348" y="22" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">
-      Robotics
+      MLLM Eval
     </text>
 
     <rect x="462" width="200" height="34" rx="17" fill="#0F172A" fill-opacity="0.42" stroke="#BFDBFE" stroke-opacity="0.45" />
     <text x="484" y="22" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">
-      Reproducible Systems
+      Multimodal Generation
     </text>
   </g>
 </svg>
