@@ -17,10 +17,9 @@ I work on:
 
 ## Selected work
 
-- [UniG2U](https://github.com/nssmd/UniG2U): benchmarking when generation helps understanding in multimodal unified models.
-- [robotgrasp](https://github.com/nssmd/robotgrasp): physics-informed dexterous grasp detection for robotic manipulation.
-- [DANet-CIKM2024](https://github.com/nssmd/DANet-CIKM2024): retrieval-inspired few-shot time-series forecasting.
-- [lmms-eval](https://github.com/nssmd/lmms-eval): evaluation workflows for large multimodal models.
+- [UniG2U](https://github.com/nssmd/UniG2U)
+- [lmms-engine](https://github.com/EvolvingLMMs-Lab/lmms-engine)
+- [ArgusBot](https://github.com/waltstephen/ArgusBot)
 
 ## Selected papers
 
