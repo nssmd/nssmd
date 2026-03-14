@@ -1,109 +1,89 @@
-<h1 align="center">𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Zimo Wen</h1>
-<h3 align="center">A passionate CS student from SJTU, China</h3>
+<p align="center">
+  <img src="./assets/header.svg" alt="Zimo Wen banner" />
+</p>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/nssmd">
-    <img src="https://img.shields.io/badge/-@nssmd-%23181717?style=flat-square&logo=github" alt="GitHub">
+    <img
+      src="https://img.shields.io/badge/GitHub-@nssmd-111827?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub badge"
+    />
   </a>
-</div>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nssmd&theme=onedark&column=4&margin-w=15&margin-h=15&no-frame=true&rank=-?," alt="GitHub Trophy">
+  <a href="mailto:2581235653@sjtu.edu.cn">
+    <img
+      src="https://img.shields.io/badge/Email-2581235653%40sjtu.edu.cn-0f766e?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email badge"
+    />
   </a>
 </p>
 
-
-💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒓𝒊𝒏𝒈𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒍𝒊𝒇𝒆. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
-
-- 👋 I’m @nssmd, a college student @SJTU, from @MVIG Lab.
-- 📫 How to reach me : [2581235653@sjtu.edu.cn](2581235653@sjtu.edu.cn)
-- ⚡ Hobbies: Ping Pong, Computer Games
-
-
-
-## > My GitHub Stats 📈
-
 <p align="center">
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nssmd&show_icons=true&theme=cobalt&count_private=true&card_width=495" alt="GitHub Stats">
-  </div>
-  <div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=nssmd&hide_contributor_rank=false&combine_all_yearly_contributions=true&limit=4&order_by=stars&&theme=synthwave" alt="GitHub Contributions">
-  </div>
-  <div align="center">
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=nssmd&theme=vue-dark" alt="GitHub Streak">
-    </a>
-  </div>
+  I build research prototypes and practical tooling around large multimodal models,
+  robot learning, and data-centric evaluation.
+  <br />
+  I care about clean experiments, reproducible systems, and practical open-source work.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Multimodal%20Evaluation-0f172a?style=flat-square" alt="Multimodal evaluation" />
+  <img src="https://img.shields.io/badge/Robot%20Learning-0f766e?style=flat-square" alt="Robot learning" />
+  <img src="https://img.shields.io/badge/Embodied%20AI-0369a1?style=flat-square" alt="Embodied AI" />
+  <img src="https://img.shields.io/badge/Time--Series%20Modeling-1d4ed8?style=flat-square" alt="Time-series modeling" />
+</p>
 
+## About Me
 
+- Computer Science student at Shanghai Jiao Tong University.
+- Member of MVIG Lab, with current interests in multimodal evaluation, embodied AI, robotics, and time-series modeling.
+- Most comfortable with Python, PyTorch, C++, Git, Linux, and lightweight engineering workflows.
+- Outside the lab: ping pong and computer games.
 
+## Current Focus
 
-## > My Tech Stack
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Multimodal Evaluation</strong><br />
+      Building benchmark workflows, model integrations, and Visual CoT style evaluation
+      pipelines for large multimodal models.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Robot Learning</strong><br />
+      Exploring grasp detection, manipulation-oriented perception, and research tooling
+      that connects model outputs with physical constraints.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Structured Prediction</strong><br />
+      Working on retrieval-inspired ideas for few-shot time-series forecasting and
+      other data-efficient learning problems.
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" alt="Git">
-  <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" alt="GitLab">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
-  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
-  <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="AssemblyScript">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal">
-</div>
+## Featured Work
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nssmd&layout=compact&theme=cobalt" alt="Top Languages">
-  </a>
-</div>
+| Project | What it is |
+| --- | --- |
+| [UniG2U](https://github.com/nssmd/UniG2U) | Extends `lmms-eval` with additional benchmarks, model integrations, Visual CoT pipelines, and one-shot scripts for large multimodal model evaluation. |
+| [DANet-CIKM2024](https://github.com/nssmd/DANet-CIKM2024) | A RAG-inspired dual-attention model for few-shot time series prediction, combining long-term and short-term pattern retrieval. |
+| [robotgrasp](https://github.com/nssmd/robotgrasp) | Physics-informed dexterous grasp detection with attention-driven force-closure analysis for robotic manipulation. |
+| [lmms-eval](https://github.com/nssmd/lmms-eval) | Engineering work around one-click evaluation workflows for large multimodal models across text, image, video, and audio tasks. |
 
-**Currently working with:**
+## Toolbox
 
-<a href="https://www.python.org/" title="Python"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/python.svg" /></a>
-<a href="https://git-scm.com/" title="Git"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/git.svg" /></a>
-<a href="https://www.docker.com/" title="Docker"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/docker.svg" /></a>
-<a href="https://github.com/" title="GitHub"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" /></a>
-<a href="https://gitlab.com/" title="GitLab"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gitlab.svg" /></a>
-<a href="https://cplusplus.com/" title="C"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/c.svg" /></a>
-<a href="https://cplusplus.com/" title="C++"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/cplusplus.svg" /></a>
-<a href="https://chatgpt.com/" title="GitLab"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/openai.svg" /></a>
-<a href="https://www.adobe.com/" title="Adobe"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/adobe.svg" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-**Learning:**
+## Open to Collaborate
 
-
-<a href="https://www.pytorch.org/" title="Pytorch"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/pytorch.svg" /></a>
-<a href="https://robotics.org/" title="Robot Learning"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/ros.svg" /></a>
-<a href="https://www.blender.org/" title="3D Generation"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/blender.svg" /></a>
-<a href="https://www.openstreetmap.org/" title="Spatiotemporal Data Mining"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/openstreetmap.svg" /></a>
-<a href="https://huggingface.co/" title="Large Models">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/huggingface.svg" />
-</a>
-<a href="https://openai.com/" title="Reinforcement Learning">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/openai.svg" />
-</a>
-
-
-
-
-<div align="center">
-  <p>
-    <img src="https://jojoee.jojoee.com/api/utcnowgif?utcnow" alt="Current UTC time">
-  </p>
-  <p>
-    You are No. 
-    <img src="https://profile-counter.glitch.me/nssmd/count.svg" alt="Visitor Count"> to visit me!
-  </p>
-</div>
+I am happy to talk about multimodal benchmarks, research engineering, robotics perception, and interesting open-source collaborations.
